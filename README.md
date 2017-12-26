@@ -1,2 +1,3 @@
 # pre-acumen
 PRE Repository 
+Test Engineer with limited coding experience. Trying to gain insight into Python, Java, & Powershell for starters....      
